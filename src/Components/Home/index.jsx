@@ -6,6 +6,7 @@ import CarouselCategory from '../CarouselCategory'
 const Home = () => {
   return (
     <Container>
+      fhf
       <CarouselCategory/>
     </Container>
   )
